@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab-7-vnedrenie_is:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab-7-vnedrenie_is:latest 
